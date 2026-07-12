@@ -86,22 +86,20 @@ Heart_Disease_Prediction/
 
 ---
 
+
 ## 📷 Project Output
 
-### Accuracy Comparison
+### Logistic Regression Confusion Matrix
 
-![Accuracy Comparison](accuracy_comparison.png)
-
-### KNN Confusion Matrix
-
-![KNN Confusion Matrix](knn_confusion_matrix.png)
+![Logistic Regression](https://raw.githubusercontent.com/Sarthaak-19/Heart-Disease_prediction_data_science_project/main/IMG_20260712_175358.jpg)
 
 ### SVM Confusion Matrix
 
-![SVM Confusion Matrix](svm_confusion_matrix.png)
+![SVM](https://raw.githubusercontent.com/Sarthaak-19/Heart-Disease_prediction_data_science_project/main/IMG_20260712_175256.jpg)
 
----
+### KNN Confusion Matrix
 
+![KNN](https://raw.githubusercontent.com/Sarthaak-19/Heart-Disease_prediction_data_science_project/main/IMG_20260712_175434.jpg)
 `
 
 ---
