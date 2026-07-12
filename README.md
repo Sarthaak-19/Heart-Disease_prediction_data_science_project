@@ -101,6 +101,9 @@ Heart_Disease_Prediction/
 
 ![KNN](https://raw.githubusercontent.com/Sarthaak-19/Heart-Disease_prediction_data_science_project/main/IMG_20260712_175434.jpg)
 `
+## Classification Report
+
+![Classification Report](https://raw.githubusercontent.com/Sarthaak-19/Heart-Disease_prediction_data_science_project/main/IMG_20260712_175328.jpg)
 
 ---
 
